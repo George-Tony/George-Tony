@@ -11,7 +11,7 @@ Mobile Application Developer with more than 6 years in Client handling & Team Ma
 ##
 
 **Languages and Tools**  
-<img src ="https://img.shields.io/badge/-Android-white?style=for-the-badge&logo=android"> <img src ="https://img.shields.io/badge/-iOS-red?style=plastic&logo=apple"> <img src="https://img.shields.io/badge/-Android%20Studio-white?style=plastic&logo=android-studio"> <img src="https://img.shields.io/badge/-Flutter-blue?style=plastic&logo=flutter">  <img src="https://img.shields.io/badge/-DART-blue?style=plastic&logo=dart"> <img src="https://img.shields.io/badge/-Swift-white?style=plastic&logo=swift"> <img src ="https://img.shields.io/badge/-HTML-red?style=plastic&logo=html"> <img src ="https://img.shields.io/badge/-Kotlin-white?style=plastic&logo=kotlin"> <img src="https://img.shields.io/badge/-JAVA-orange?style=plastic&logo=java"> 
+<img src ="https://img.shields.io/badge/-Android-white?style=for-the-badge&logo=android"> <img src ="https://img.shields.io/badge/-iOS-red?style=for-the-badge&logo=apple"> <img src="https://img.shields.io/badge/-Android%20Studio-white?style=for-the-badge&logo=android-studio"> <img src="https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter"> <img src="https://img.shields.io/badge/-DART-blue?style=for-the-badge&logo=dart"> <img src="https://img.shields.io/badge/-Swift-white?style=for-the-badge&logo=swift"> <img src ="https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html"> <img src ="https://img.shields.io/badge/-Kotlin-white?style=for-the-badge&logo=kotlin"> <img src="https://img.shields.io/badge/-JAVA-orange?style=for-the-badge&logo=java"> 
 
 ##
 
