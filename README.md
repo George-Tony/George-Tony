@@ -7,22 +7,11 @@ Mobile Application Developer with more than 6 years in Client handling & Team Ma
 🌱 I’m currently learning Python for Machine Learning
 👯 I’m looking to collaborate on Mobile, Web & Data Visualisation
 💬 Ask me about Mobile development
-📫 How to reach me: georgegtony@gmail.com
-😄 Pronouns: ...
-⚡ Fun fact: ...
+📫 Reach me on: georgegtony@gmail.com
 ##
 
 **Languages and Tools**  
-<img src ="https://img.shields.io/badge/-Android-white?style=for-the-badge&logo=android"> 
-<img src ="https://img.shields.io/badge/-iOS-red?style=plastic&logo=apple"> 
-<img src="https://img.shields.io/badge/-Android%20Studio-white?style=plastic&logo=android-studio"> 
-
-<img src="https://img.shields.io/badge/-Flutter-blue?style=plastic&logo=flutter"> 
-<img src="https://img.shields.io/badge/-DART-blue?style=plastic&logo=dart">  
-<img src="https://img.shields.io/badge/-Swift-white?style=plastic&logo=swift">  
-<img src ="https://img.shields.io/badge/-HTML-red?style=plastic&logo=html"> 
-<img src ="https://img.shields.io/badge/-Kotlin-white?style=plastic&logo=kotlin"> 
-<img src="https://img.shields.io/badge/-JAVA-orange?style=plastic&logo=java"> 
+<img src ="https://img.shields.io/badge/-Android-white?style=for-the-badge&logo=android"> <img src ="https://img.shields.io/badge/-iOS-red?style=plastic&logo=apple"> <img src="https://img.shields.io/badge/-Android%20Studio-white?style=plastic&logo=android-studio"> <img src="https://img.shields.io/badge/-Flutter-blue?style=plastic&logo=flutter">  <img src="https://img.shields.io/badge/-DART-blue?style=plastic&logo=dart"> <img src="https://img.shields.io/badge/-Swift-white?style=plastic&logo=swift"> <img src ="https://img.shields.io/badge/-HTML-red?style=plastic&logo=html"> <img src ="https://img.shields.io/badge/-Kotlin-white?style=plastic&logo=kotlin"> <img src="https://img.shields.io/badge/-JAVA-orange?style=plastic&logo=java"> 
 
 ##
 
