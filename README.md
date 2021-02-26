@@ -1,4 +1,4 @@
-# Hello, Tech Lovers 👋
+# Hello, Folks 👋
 
 Mobile Application Developer with more than 6 years in Client handling & Team Management, Proficiency in designing innovative applications and achieving high client satisfaction. I am able to work off specification, interact with business users and collaborate with designer and service providers to achieve the desired product. I am able to work solo with any size team including management of other developers. My abilities are in solving problems using Logic, Perspective and Creativity.
 
